@@ -1,19 +1,12 @@
-# 🏄‍♂️ Forrest Knight
+# NK12131
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+📁 I'm Nithin Kumar, a dedicated Data Scientist and Machine Learning Engineer currently advancing my Master’s in Applied Data Science at Syracuse University. My focus areas include Machine Learning, Deep Learning, and Data Engineering.
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
+💻 I'm actively engaged in projects involving predictive analytics, deep learning, and multi-agent systems, utilizing tools such as Python, SQL, Tableau, and Google Colab. My goal is to specialize in Generative Neural Networks and push the boundaries of research in this innovative field.
 
-   <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+🏛️ My programming journey began with game development, which transitioned into web development with React. This progression ignited my passion for Data Science, leading me to develop expertise in crafting machine-learning models and designing scalable data solutions.
+
+🎢 Beyond the tech world, I'm passionate about creative pursuits and acquiring new skills. I play the guitar, and badminton. Additionally, I have experience in creating newsletters and producing captivating content.
 
 ---
 
