@@ -1,4 +1,4 @@
-# NK12131
+# Nithin Kumar H G
 # 💫 About Me:
 📁 I'm Nithin Kumar, a dedicated Data Scientist and Machine Learning Engineer currently advancing my Master’s in Applied Data Science at Syracuse University. My focus areas include Machine Learning, Deep Learning, and Data Engineering.<br><br>💻 I'm actively engaged in projects involving predictive analytics, deep learning, and multi-agent systems, utilizing tools such as Python, SQL, Tableau, and Google Colab. My goal is to specialize in Generative Neural Networks and push the boundaries of research in this innovative field.<br><br>🏛️ My programming journey began with game development, which transitioned into web development with React. This progression ignited my passion for Data Science, leading me to develop expertise in crafting machine-learning models and designing scalable data solutions.<br><br>🎢 Beyond the tech world, I'm passionate about creative pursuits and acquiring new skills. I play the guitar, and badminton. Additionally, I have experience in creating newsletters and producing captivating content.
 
