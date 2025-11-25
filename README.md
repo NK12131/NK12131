@@ -59,7 +59,6 @@ MLOps:           MLflow • Git • CI/CD • Model Deployment
 If you're building something interesting with data or just want to chat about ML — I'm always happy to connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/(https://www.linkedin.com/in/nkumar12131/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)]https://portfolio12131.netlify.app/
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithink12131@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nithink12131)
 
