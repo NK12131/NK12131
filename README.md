@@ -1,96 +1,83 @@
-<h1 align="center">Hi, I'm Nithin Kumar 👋</h1>
+---
+<div align="center">
+  
+# Hey! Welcome to my corner of GitHub 👋
 
-<p align="center">
-  <strong>Data Scientist | ML Engineer | Analytics Professional</strong><br>
-  Turning complex data into actionable insights and intelligent systems
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=I'm+Nithin+Kumar;Data+Scientist;ML+Engineer;AI+Engineer;Data+Engineer;Data+Analyst;Problem+Solver" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR-EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="YOUR-PORTFOLIO-URL">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-## 🚀 About Me
+Hi, I'm **Nithin** a Data Science grad student at **Syracuse University** who loves turning messy data into intelligent systems that actually matter.
 
-I'm a Master's student in **Applied Data Science at Syracuse University** (Dec 2025), passionate about building ML systems that drive real business impact. With 2+ years of experience across healthcare analytics, supply chain optimization, and NLP, I specialize in translating data into decisions.
+I don't just build models to hit accuracy metrics. I build them to **solve real problems**  whether that's optimizing healthcare operations, analyzing 92 million election records, or building AI agents that orchestrate complex workflows.
 
-- 🔬 Currently working as a **Research Assistant** at Syracuse University
-- 🏥 Previously improved operational efficiency by **22%** at Loretto Healthcare
-- 🤖 Building AI-powered solutions with LLMs, deep learning, and cloud infrastructure
-- 📊 Love creating visualizations that tell compelling data stories
+When I'm not training models, you'll find me experimenting with new ML tools, creating dashboards that tell stories, or diving deep into the latest in LLMs and MLOps.
 
 ---
 
-## 🛠️ Tech Stack
+### ⚡ Quick Facts
 
-**Languages & Data**
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-
-**ML & Deep Learning**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-
-**Cloud & Tools**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Visualization**
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+* 🎓 **MS Applied Data Science** @ Syracuse University (Graduating Dec 2025).
+* 🔬 Currently a **Research Assistant** building AI-powered systems.
+* 📉 Reduced inventory costs by **22%** and saved **~$34K** at previous role.
+* 🏥 Built **OncoFlow** a 12-tool AI orchestration system for oncology scheduling.
+* 🗳️ Analyzed **92M+ FEC records** to uncover campaign finance patterns.
+* 🧠 Created **deep learning models** for medical imaging with explainable AI.
+* 🚀 **Actively seeking** Data Scientist & ML Engineer roles (Jan 2026 start).
 
 ---
 
-## 📌 Featured Projects
+### 🛠️ What I Work With
 
-### 🏥 [OncoFlow](https://github.com/NK12131/PROJECT-LINK)
-AI-powered oncology scheduling system with multi-agent architecture and 12 specialized tools. Built for IBM watsonx Orchestrate hackathon.
-> `Python` `watsonx` `Multi-Agent Systems` `Healthcare AI`
-
-### 🗳️ [FEC Campaign Finance Analysis](https://github.com/NK12131/PROJECT-LINK)
-Interactive Tableau dashboards analyzing 92M+ transactions from 2020-2024 federal elections, revealing donation patterns and fundraising trends.
-> `Tableau` `Data Visualization` `Political Analytics`
-
-### 🧠 [Dementia Detection with Deep Learning](https://github.com/NK12131/PROJECT-LINK)
-CNN-based classification model with Grad-CAM visualizations for interpretable medical imaging diagnostics.
-> `TensorFlow` `Medical Imaging` `Explainable AI`
-
-### 📰 [Political Discourse Classifier](https://github.com/NK12131/PROJECT-LINK)
-Fine-tuned DistilBERT model for classifying political text with high accuracy.
-> `NLP` `Transformers` `HuggingFace`
+```text
+Languages:       Python • SQL • R • PySpark
+ML/AI:           TensorFlow • PyTorch • Scikit-learn • HuggingFace • LangChain
+Cloud:           AWS (S3, EC2, Lambda, SageMaker) • Azure • Docker
+Data:            Pandas • NumPy • Spark • ETL Pipelines
+Visualization:   Tableau • Power BI • Plotly • Matplotlib
+MLOps:           MLflow • Git • CI/CD • Model Deployment
+```
 
 ---
 
-## 📈 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NK12131&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NK12131&theme=tokyonight&hide_border=true&layout=compact" height="165" />
-</p>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NK12131&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NK12131&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NK12131&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NK12131&theme=github-dark-blue&hide_border=true&background=0d1117" />
+</div>
 
 ---
 
-<p align="center">
-  <i>Open to full-time opportunities in Data Science & Analytics starting January 2026</i><br>
-  <strong>Let's connect and build something impactful together!</strong>
-</p>
+### 🤝 Let's Connect
+
+<div align="center">
+
+**I'm looking for Data Scientist & ML Engineer opportunities starting January 2026.**
+
+If you're building something interesting with data or just want to chat about ML — I'm always happy to connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/(https://www.linkedin.com/in/nkumar12131/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)]https://portfolio12131.netlify.app/
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithink12131@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nithink12131)
+
+</div>
+
+---
+
+<div align="center">
+  
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNK12131&label=Profile%20Views&labelColor=%230d1117&countColor=%2358a6ff)
+
+*"In God we trust. All others must bring data."* — W. Edwards Deming
+
+**⭐ If you find my work useful, consider starring the repos!**
+
+</div>
