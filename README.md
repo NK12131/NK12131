@@ -1,30 +1,96 @@
-# Nithin Kumar H G
-# 💫 About Me:
-Hey there! I'm Nithin Kumar, part data detective, part algorithm alchemist on a mission to turn raw data into decisions that matter.
+<h1 align="center">Hi, I'm Nithin Kumar 👋</h1>
 
-With a background in Computer Applications and a current Master’s in Applied Data Science at Syracuse University, I’ve transformed insights at the intersection of business, machine learning, and human behavior. Whether it’s forecasting apparel demand, detecting dementia using deep learning, or classifying political discourse with DistilBERT, I don’t just build models, I build impact.
+<p align="center">
+  <strong>Data Scientist | ML Engineer | Analytics Professional</strong><br>
+  Turning complex data into actionable insights and intelligent systems
+</p>
 
-Armed with Python, SQL, PySpark, and a bit of Power BI magic, I’ve boosted operational KPIs across supply chains. I've trained models that see what humans miss (literally ask my Grad-CAM visualizations), even built a GPT-4 RAG bot that answers questions like a seasoned analyst.
-
-I believe data science is more than just code, it’s storytelling, problem-solving, and continuous experimentation.
-If you're a fellow data explorer, an industry sage, or just someone who appreciates dashboards that don’t make your eyes bleed, let’s connect. I’m always down for geeking out over models, mentoring, or tackling the next big data challenge.
-
-Let’s wrangle the dataverse together.
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NK12131&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NK12131&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NK12131&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NK12131&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR-EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="YOUR-PORTFOLIO-URL">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NK12131&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I'm a Master's student in **Applied Data Science at Syracuse University** (Dec 2025), passionate about building ML systems that drive real business impact. With 2+ years of experience across healthcare analytics, supply chain optimization, and NLP, I specialize in translating data into decisions.
+
+- 🔬 Currently working as a **Research Assistant** at Syracuse University
+- 🏥 Previously improved operational efficiency by **22%** at Loretto Healthcare
+- 🤖 Building AI-powered solutions with LLMs, deep learning, and cloud infrastructure
+- 📊 Love creating visualizations that tell compelling data stories
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Data**
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
+**ML & Deep Learning**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+
+**Cloud & Tools**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Visualization**
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### 🏥 [OncoFlow](https://github.com/NK12131/PROJECT-LINK)
+AI-powered oncology scheduling system with multi-agent architecture and 12 specialized tools. Built for IBM watsonx Orchestrate hackathon.
+> `Python` `watsonx` `Multi-Agent Systems` `Healthcare AI`
+
+### 🗳️ [FEC Campaign Finance Analysis](https://github.com/NK12131/PROJECT-LINK)
+Interactive Tableau dashboards analyzing 92M+ transactions from 2020-2024 federal elections, revealing donation patterns and fundraising trends.
+> `Tableau` `Data Visualization` `Political Analytics`
+
+### 🧠 [Dementia Detection with Deep Learning](https://github.com/NK12131/PROJECT-LINK)
+CNN-based classification model with Grad-CAM visualizations for interpretable medical imaging diagnostics.
+> `TensorFlow` `Medical Imaging` `Explainable AI`
+
+### 📰 [Political Discourse Classifier](https://github.com/NK12131/PROJECT-LINK)
+Fine-tuned DistilBERT model for classifying political text with high accuracy.
+> `NLP` `Transformers` `HuggingFace`
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NK12131&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NK12131&theme=tokyonight&hide_border=true&layout=compact" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NK12131&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>Open to full-time opportunities in Data Science & Analytics starting January 2026</i><br>
+  <strong>Let's connect and build something impactful together!</strong>
+</p>
