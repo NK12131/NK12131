@@ -45,11 +45,6 @@ MLOps:           MLflow • Git • CI/CD • Model Deployment
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NK12131&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NK12131&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NK12131&theme=github-dark-blue&hide_border=true&background=0d1117" />
 </div>
 
