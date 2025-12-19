@@ -54,7 +54,7 @@ MLOps:           MLflow • Git • CI/CD • Model Deployment
 
 <div align="center">
 
-**I'm looking for Data Scientist & ML Engineer opportunities starting January 2026.**
+**I'm Actively looking for opportunities in Data**
 
 If you're building something interesting with data or just want to chat about ML — I'm always happy to connect!
 
