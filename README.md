@@ -3,13 +3,13 @@
   
 # Hey! Welcome to my corner of GitHub 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=I'm+Nithin+Kumar;Data+Scientist;ML+Engineer;AI+Engineer;Data+Engineer;Data+Analyst;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=I'm+Nithin+Kumar;Business+Analyst;Data+Engineer;ML+Engineer;AI+Engineer;Problem+Solver" alt="Typing SVG" />
 
 </div>
 
 ---
 
-Hi, I'm **Nithin** a Data Science grad student at **Syracuse University** who loves turning messy data into intelligent systems that actually matter.
+Hi, I'm **Nithin**  Applied Data Science Graduate student at **Syracuse University** who loves turning messy data into intelligent systems that actually matter.
 
 I don't just build models to hit accuracy metrics. I build them to **solve real problems**  whether that's optimizing healthcare operations, analyzing 92 million election records, or building AI agents that orchestrate complex workflows.
 
