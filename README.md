@@ -3,7 +3,7 @@
   
 # Hey! Welcome to my corner of GitHub 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=I'm+Nithin+Kumar;Business+Analyst;Data+Engineer;ML+Engineer;AI+Engineer;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=I'm+Nithin+Kumar;Data+Engineer;Business+Analyst;ML+Engineer;AI+Engineer;Problem+Solver" alt="Typing SVG" />
 
 </div>
 
